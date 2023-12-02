@@ -1,0 +1,15 @@
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\bin\Debug\net6.0\ManejoDatos.exe
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\bin\Debug\net6.0\ManejoDatos.deps.json
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\bin\Debug\net6.0\ManejoDatos.runtimeconfig.json
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\bin\Debug\net6.0\ManejoDatos.dll
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\bin\Debug\net6.0\ManejoDatos.pdb
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.csproj.AssemblyReference.cache
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.AssemblyInfoInputs.cache
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.AssemblyInfo.cs
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.csproj.CoreCompileInputs.cache
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.dll
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\refint\ManejoDatos.dll
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.pdb
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ManejoDatos.genruntimeconfig.cache
+C:\Users\charl\onedrive\documentos\proyectos\manejodatos\obj\Debug\net6.0\ref\ManejoDatos.dll
